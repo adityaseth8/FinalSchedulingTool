@@ -10,10 +10,30 @@ class AcyclicTopologicalGraph:
 
     def get_graph(self):
         return self.graph
+
+    def get_graph_loc(self):
+        return self.graph_loc
+
+    def get_graph_loc_items(self):
+        return self.graph_loc.items()
     
     def get_max_course_size(self):
         max_size = max(data['class_size'] for data in self.graph.values())
         return max_size
+    
+    def get_relevant_info(self):
+        relevant_info = []
+        for node, data in self.graph.items():
+            info = {
+                'course_number': data['course_number'],
+                'professor': data['professor'],
+                'location': data['location']
+            }
+            print(node)
+            print(info)
+            relevant_info.append((node, info))
+
+        return relevant_info
 
     def insert(self, node, department, course_number, class_size, professor, *dependencies, location):
         if node in self.graph:

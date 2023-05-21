@@ -4,32 +4,17 @@ import {
   TileLayer,
   Marker, 
   Popup
-  // Polygon
 } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import MarkerClusterGroup from "react-leaflet-cluster";
 import { Icon, divIcon, point } from "leaflet";
-
-// import { statesData } from './data';
+import data from './final_scheduling.json'
 import './App.css';
 
 const center = [38.54135231864914, -121.75302174070087];
 
-// markers
-const markers = [
-  {
-    geocode: [38.5413771989718, -121.75309932152891],
-    popUp: "California Hall"
-  },
-  {
-    geocode: [38.53956457993359, -121.75473010440209],
-    popUp: "Sciences Lecture Building"
-  },
-  {
-    geocode: [38.53798085102295, -121.75568845473931],
-    popUp: "Warren and Giedt Hall"
-  }
-];
+// Assign markers 
+const markers = data
 
 // create custom icon
 const customIcon = new Icon({
@@ -48,6 +33,7 @@ const createClusterCustomIcon = function (cluster) {
 
 export default function App() {
   return (
+    // Leaflet map
     <MapContainer
       center={center}
       zoom={16}
@@ -69,17 +55,6 @@ export default function App() {
           </Marker>
         ))}
 
-        {/* Hard coded markers */}
-        {/* <Marker position={[51.505, -0.09]} icon={customIcon}>
-          <Popup>This is popup 1</Popup>
-        </Marker>
-        <Marker position={[51.504, -0.1]} icon={customIcon}>
-          <Popup>This is popup 2</Popup>
-        </Marker>
-        <Marker position={[51.5, -0.09]} icon={customIcon}>
-          <Popup>This is popup 3</Popup>
-        </Marker>
-       */}
       </MarkerClusterGroup>
     </MapContainer>
   );

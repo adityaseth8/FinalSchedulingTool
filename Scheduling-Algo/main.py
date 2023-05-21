@@ -1,4 +1,5 @@
 from class_dependencies_graph import AcyclicTopologicalGraph
+from convert_csv_to_json import csv_to_json
 import pandas as pd 
 
 finals = []
@@ -101,10 +102,11 @@ for index, row in ecs_courses_df.iterrows():
   # all_course_graph.insert(course_name, dept, crn, course_size, professor, dependency, location="")
 
   # Insert to the finals list courses that are read in from the df
+  # Per finals[i] will have 5 classes
   if len(finals[graph_count].graph) != num_classes_per_block:
     finals[graph_count].insert(course_name, dept, crn, course_size, professor, dependency, location="")
   else:
-    graph_count += graph_count
+    graph_count += 1
 
 # Insert into a branch of 5 nodes into a block (I.e: Insert classes that have a chain of prereqs)
 # all_course_graph.print_nodes()
@@ -147,11 +149,54 @@ for i in range(num_days * num_blocks_per_day):
       # Re-define data frame with the first row
       room_df = room_df.iloc[1:]
   
-  finals[i].print_nodes_loc()
+  # finals[i].print_nodes_loc()
 
+# for i in range(num_days * num_blocks_per_day):
+#   finals[i].print_nodes_loc()
 
+# finals[0].print_nodes_loc()
+# print()
+# df = pd.DataFrame()
+# # print(finals[0].get_relevant_info())
 
-# finals[0].print_nodes()
+# Define final_scheduling data frame
+col_headers = {'Course Name': [], 'CRN': [], 'Professor': [], 'Location': [], 'popUp': []}
+final_scheduling_df = pd.DataFrame(columns = col_headers)
+
+# Convert data frame to csv per looping through all finals items
+for i in range(num_days * num_blocks_per_day):
+  num_classes_to_schedule = len(finals[i].get_graph_loc())
+  # print(num_classes_to_schedule)
+
+  if (num_classes_to_schedule == 0): break
+
+  # Iterate over the items in  and insert values into the DataFrame
+  for node, data in finals[i].get_graph_loc_items():
+    course_name = node
+    crn = data['course_number']
+    professor = data['professor']
+    location = data['location']
+    print(course_name, crn, professor, location)
+
+    popUp_message = location + '\n' + course_name + '\n' + str(crn) + '\n' + professor
+    
+    final_scheduling_df = final_scheduling_df.append({
+        'Course Name': course_name,
+        'CRN': crn,
+        'Professor': professor,
+        'Location': location,
+        'popUp': popUp_message
+    }, ignore_index=True)
+
+# print(final_scheduling_df)
+final_scheduling_csv = final_scheduling_df.to_csv('final_scheduling.csv')
+csv_to_json('final_scheduling.csv', 'final_scheduling.json')
+
+# Convert final scheduling data frame to final scheduling json
+# final_scheduling_json = final_scheduling_df.to_json('final_scheduling.json')
+
+# final_scheduling_csv = final_scheduling_df.to_csv('final_scheduling.csv')
+# finals[0].print_nodes_loc()
 
 # Generalized 
 # for i in range(num_days * num_blocks_per_day):
