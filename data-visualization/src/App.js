@@ -19,7 +19,7 @@ const markers = data
 // create custom icon
 const customIcon = new Icon({
   iconUrl: require('./placeholder.png'),
-  iconSize: [40, 40] // size of the icon
+  iconSize: [50, 50] // size of the icon
 });
 
 // custom cluster icon
