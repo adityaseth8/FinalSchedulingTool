@@ -13,7 +13,7 @@ table = soup.find('table')
 rows = table.find_all('tr')
 
 data = []
-# 
+# Iterate through rows of the table
 for row in rows:
     tds = row.find_all('td')
     if len(tds) >= 2:
