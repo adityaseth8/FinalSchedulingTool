@@ -1,0 +1,73 @@
+Select,CRN,Subj,Crse,Sec,Cred,Title,Days,Time,Cap,Instructor,Date (MM/DD),Location
+NR,21623,ECS,017,A01,4.000,Data Logic & Computing,TR,01:40 pm-03:00 pm,60,Patrice A. Koehl (P),01/08-03/15,TBA
+NR,21624,ECS,017,A02,4.000,Data Logic & Computing,TR,01:40 pm-03:00 pm,60,Patrice A. Koehl (P),01/08-03/15,TBA
+NR,21626,ECS,020,A01,4.000,Discrete Math for CS,M,08:00 am-08:50 am,63,TBA,01/08-03/15,TBA
+NR,21627,ECS,020,A02,4.000,Discrete Math for CS,TR,03:10 pm-04:30 pm,62,Vidhyacharan Bhaskar (P),01/08-03/15,TBA
+NR,21628,ECS,020,A03,4.000,Discrete Math for CS,TR,03:10 pm-04:30 pm,62,Vidhyacharan Bhaskar (P),01/08-03/15,TBA
+NR,21629,ECS,020,A04,4.000,Discrete Math for CS,TR,03:10 pm-04:30 pm,63,Vidhyacharan Bhaskar (P),01/08-03/15,TBA
+NR,21630,ECS,032A,A01,4.000,Intro to Programming,MWF,08:00 am-08:50 am,58,Daryl P. Posnett (P),01/08-03/15,TBA
+NR,21631,ECS,032A,A02,4.000,Intro to Programming,MWF,08:00 am-08:50 am,58,Daryl P. Posnett (P),01/08-03/15,TBA
+NR,21632,ECS,032A,A03,4.000,Intro to Programming,MWF,08:00 am-08:50 am,58,Daryl P. Posnett (P),01/08-03/15,TBA
+NR,21633,ECS,032A,A04,4.000,Intro to Programming,MWF,08:00 am-08:50 am,58,Daryl P. Posnett (P),01/08-03/15,TBA
+NR,21634,ECS,032A,A05,4.000,Intro to Programming,MWF,08:00 am-08:50 am,58,Daryl P. Posnett (P),01/08-03/15,TBA
+NR,21636,ECS,032A,B01,4.000,Intro to Programming,M,08:00 am-08:50 am,49,TBA,01/08-03/15,TBA
+NR,21637,ECS,032A,B02,4.000,Intro to Programming,M,09:00 am-09:50 am,49,TBA,01/08-03/15,TBA
+NR,21638,ECS,032A,B03,4.000,Intro to Programming,M,10:00 am-10:50 am,48,TBA,01/08-03/15,TBA
+NR,44587,ECS,032A,B04,4.000,Intro to Programming,M,11:00 am-11:50 am,48,TBA,01/08-03/15,TBA
+NR,44588,ECS,032A,B05,4.000,Intro to Programming,M,12:10 pm-01:00 pm,48,TBA,01/08-03/15,TBA
+NR,44589,ECS,032A,B06,4.000,Intro to Programming,M,01:10 pm-02:00 pm,48,TBA,01/08-03/15,TBA
+NR,21639,ECS,032B,A01,4.000,Intro to Data Structures,MWF,10:00 am-10:50 am,50,Edwin A. Solares (P),01/08-03/15,TBA
+NR,21640,ECS,032B,A02,4.000,Intro to Data Structures,MWF,10:00 am-10:50 am,50,Edwin A. Solares (P),01/08-03/15,TBA
+NR,21641,ECS,032B,A03,4.000,Intro to Data Structures,MWF,10:00 am-10:50 am,50,Edwin A. Solares (P),01/08-03/15,TBA
+NR,21642,ECS,032B,A04,4.000,Intro to Data Structures,MWF,10:00 am-10:50 am,50,Edwin A. Solares (P),01/08-03/15,TBA
+NR,21643,ECS,032B,A05,4.000,Intro to Data Structures,MWF,10:00 am-10:50 am,50,Edwin A. Solares (P),01/08-03/15,TBA
+NR,44676,ECS,034,001,4.000,Dev in UNIX & C++,TR,12:10 pm-01:30 pm,60,Christopher J. Nitta (P),01/08-03/15,TBA
+NR,21644,ECS,036A,001,4.000,Programming & Prob Solve,MWF,11:00 am-11:50 am,220,Matthew F. Butner (P),01/08-03/15,TBA
+NR,21645,ECS,036B,A01,4.000,Object-Oriented Program,M,04:10 pm-05:00 pm,55,TBA,01/08-03/15,TBA
+NR,21646,ECS,036B,A02,4.000,Object-Oriented Program,TR,10:30 am-11:50 am,55,Francois Gygi (P),01/08-03/15,TBA
+NR,21647,ECS,036B,A03,4.000,Object-Oriented Program,TR,10:30 am-11:50 am,55,Francois Gygi (P),01/08-03/15,TBA
+NR,21648,ECS,036B,A04,4.000,Object-Oriented Program,TR,10:30 am-11:50 am,55,Francois Gygi (P),01/08-03/15,TBA
+NR,21649,ECS,036C,A01,4.000,Data Structures,MWF,02:10 pm-03:00 pm,64,Edwin A. Solares (P),01/08-03/15,TBA
+NR,21650,ECS,036C,A02,4.000,Data Structures,MWF,02:10 pm-03:00 pm,63,Edwin A. Solares (P),01/08-03/15,TBA
+NR,21651,ECS,036C,A03,4.000,Data Structures,MWF,02:10 pm-03:00 pm,63,Edwin A. Solares (P),01/08-03/15,TBA
+NR,21652,ECS,050,001,4.000,Machine Dependent Prog,MWF,01:10 pm-02:00 pm,125,Matthew F. Butner (P),01/08-03/15,TBA
+NR,21691,ECS,098,033,1.000-5.000,Directed Gp Study,W,07:10 pm-08:00 pm,20,Mohammad Sadoghi Hamedani (P),01/08-03/15,KEMPER 01065
+NR,21711,ECS,098,053,1.000-5.000,Directed Gp Study, ,TBA,99,Mohammad Sadoghi Hamedani (P),01/08-03/15,TBA
+NR,44607,ECS,116,001,4.000,Databases for Non-Majors,TR,09:00 am-10:20 am,120,. The Staff (P),01/08-03/15,TBA
+NR,21771,ECS,120,A01,4.000,Theory Computation,TR,12:10 pm-01:30 pm,58,David S. Doty (P),01/08-03/15,TBA
+NR,21772,ECS,120,A02,4.000,Theory Computation,TR,12:10 pm-01:30 pm,58,David S. Doty (P),01/08-03/15,TBA
+NR,21773,ECS,120,A03,4.000,Theory Computation,TR,12:10 pm-01:30 pm,59,David S. Doty (P),01/08-03/15,TBA
+NR,21774,ECS,122A,A01,4.000,Algorithm Design & Anyls,TR,04:40 pm-06:00 pm,50,Yelena A. Frid (P),01/08-03/15,TBA
+NR,21775,ECS,122A,A02,4.000,Algorithm Design & Anyls,M,05:10 pm-06:00 pm,50,TBA,01/08-03/15,TBA
+NR,21776,ECS,122A,A03,4.000,Algorithm Design & Anyls,M,11:00 am-11:50 am,50,TBA,01/08-03/15,TBA
+NR,21777,ECS,122A,A04,4.000,Algorithm Design & Anyls,TR,04:40 pm-06:00 pm,50,Yelena A. Frid (P),01/08-03/15,TBA
+NR,21778,ECS,122A,A05,4.000,Algorithm Design & Anyls,TR,04:40 pm-06:00 pm,50,Yelena A. Frid (P),01/08-03/15,TBA
+NR,21779,ECS,122B,A01,4.000,Algorithm Design & Anlys,MWF,11:00 am-11:50 am,50,Setareh Rafatirad (P),01/08-03/15,TBA
+NR,21780,ECS,122B,A02,4.000,Algorithm Design & Anlys,MWF,11:00 am-11:50 am,50,Setareh Rafatirad (P),01/08-03/15,TBA
+NR,21781,ECS,122B,A03,4.000,Algorithm Design & Anlys,MWF,11:00 am-11:50 am,50,Setareh Rafatirad (P),01/08-03/15,TBA
+NR,44613,ECS,129,001,4.000,Comp Structural Bioinfo,TR,09:00 am-10:20 am,85,Patrice A. Koehl (P),01/08-03/15,TBA
+NR,21783,ECS,132,A01,4.000,Prob & Sta Model for CS,M,10:00 am-10:50 am,62,TBA,01/08-03/15,TBA
+NR,21784,ECS,132,A02,4.000,Prob & Sta Model for CS,TR,06:10 pm-07:30 pm,63,Yelena A. Frid (P),01/08-03/15,TBA
+NR,21785,ECS,140A,001,4.000,Programming Languages,TR,10:30 am-11:50 am,195,Aditya V. Thakur (P),01/08-03/15,TBA
+NR,21786,ECS,150,001,4.000,Operating Systems,MWF,12:10 pm-01:00 pm,198,Joel Porquet (P),01/08-03/15,TBA
+NR,44817,ECS,152A,A01,4.000,Computer Networks,TR,01:30 pm-02:50 pm,56,Chen-Nee Chuah (P),01/08-03/15,TBA
+NR,44818,ECS,152A,A02,4.000,Computer Networks,TR,01:30 pm-02:50 pm,56,Chen-Nee Chuah (P),01/08-03/15,TBA
+NR,44819,ECS,152A,A03,4.000,Computer Networks,TR,01:30 pm-02:50 pm,56,Chen-Nee Chuah (P),01/08-03/15,TBA
+NR,21790,ECS,154A,001,4.000,Computer Architecture,TR,01:40 pm-03:00 pm,190,Matthew K. Farrens (P),01/08-03/15,TBA
+NR,21791,ECS,154B,001,4.000,Computer Architecture,MWF,03:10 pm-04:00 pm,75,Jason G. Lowe-Power (P),01/08-03/15,TBA
+NR,21792,ECS,160,001,4.000,Software Engineering,MWF,09:00 am-09:50 am,95,Daryl P. Posnett (P),01/08-03/15,TBA
+NR,44620,ECS,163,001,4.000,Information Interfaces,MWF,03:10 pm-04:00 pm,75,TBA,01/08-03/15,TBA
+NR,21793,ECS,164,001,4.000,Human-Computer Inter,TR,12:10 pm-01:30 pm,150,Hao-Chuan Wang (P),01/08-03/15,TBA
+NR,21794,ECS,165A,A01,4.000,Database Systems,M,01:10 pm-02:00 pm,50,TBA,01/08-03/15,TBA
+NR,21795,ECS,165A,A02,4.000,Database Systems,TR,10:30 am-11:50 am,50,Mohammad Sadoghi Hamedani (P),01/08-03/15,TBA
+NR,21796,ECS,165A,A03,4.000,Database Systems,TR,10:30 am-11:50 am,50,Mohammad Sadoghi Hamedani (P),01/08-03/15,TBA
+NR,21797,ECS,170,001,4.000,Artificial Intelligence,MWF,02:10 pm-03:00 pm,150,Ian N. Davidson (P),01/08-03/15,TBA
+NR,21798,ECS,188,001,4.000,Ethics in an Age of Tech,MWF,01:10 pm-02:00 pm,30,Kurt P. Eiselt (P),01/08-03/15,TBA
+NR,21799,ECS,188,002,4.000,Ethics in an Age of Tech,MWF,04:10 pm-05:00 pm,30,Muhammad Zubair Shafiq (P),01/08-03/15,TBA
+NR,21800,ECS,189A,001,1.000-5.000,Computer Science Theory,MWF,10:00 am-10:50 am,75,Isaac H. Kim (P),01/08-03/15,TBA
+NR,44621,ECS,189A,002,1.000-5.000,Computer Science Theory,MWF,12:10 pm-01:00 pm,75,Slobodan Mitrovic (P),01/08-03/15,TBA
+NR,44622,ECS,189E,001,1.000-5.000,Software Engineering,MWF,08:00 am-08:50 am,75,Samuel T. King (P),01/08-03/15,TBA
+NR,21801,ECS,189G,001,1.000-5.000,Artificial Intelligence,MWF,05:10 pm-06:00 pm,65,Jiawei Zhang (P),01/08-03/15,TBA
+NR,44624,ECS,189L,001,1.000-5.000,Computer Science,TR,01:40 pm-03:00 pm,75,Joshua A. Mccoy (P),01/08-03/15,TBA
+NR,21806,ECS,193A,001,3.000,Capstone Project,TR,01:40 pm-03:00 pm,99,Christopher J. Nitta (P),01/08-03/15,TBA
+NR,21925,ECS,199FA,002,1.000-4.000,Student-Taught Course De, ,TBA,99,Muhammad Zubair Shafiq (P),01/08-03/15,TBA

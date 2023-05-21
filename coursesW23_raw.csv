@@ -1,7 +1,7 @@
 Select,CRN,Subj,Crse,Sec,Cmp,Cred,Title,Days,Time,Cap,Act,Rem,WL Cap,WL Act,WL Rem,XL Cap,XL Act,XL Rem,Instructor,Date (MM/DD),Location
-NR,21623,ECS,017,A01,M,4.000,Data, Logic, & Computing,TR,01:40 pm-03:00 pm,60,0,60,999,0,999,0,0,0,Patrice A. Koehl (P),01/08-03/15,TBA
+NR,21623,ECS,017,A01,M,4.000,Data Logic & Computing,TR,01:40 pm-03:00 pm,60,0,60,999,0,999,0,0,0,Patrice A. Koehl (P),01/08-03/15,TBA
  , , , , , , , ,T,12:10 pm-01:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
-NR,21624,ECS,017,A02,M,4.000,Data, Logic, & Computing,TR,01:40 pm-03:00 pm,60,0,60,999,0,999,0,0,0,Patrice A. Koehl (P),01/08-03/15,TBA
+NR,21624,ECS,017,A02,M,4.000,Data Logic & Computing,TR,01:40 pm-03:00 pm,60,0,60,999,0,999,0,0,0,Patrice A. Koehl (P),01/08-03/15,TBA
  , , , , , , , ,R,12:10 pm-01:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
 NR,21626,ECS,020,A01,M,4.000,Discrete Math for CS,M,08:00 am-08:50 am,63,0,63,999,0,999,0,0,0,TBA,01/08-03/15,TBA
  , , , , , , , ,TR,03:10 pm-04:30 pm, , , , , , , , , ,Vidhyacharan Bhaskar (P),01/08-03/15,TBA
