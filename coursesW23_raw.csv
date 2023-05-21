@@ -1,0 +1,141 @@
+Select,CRN,Subj,Crse,Sec,Cmp,Cred,Title,Days,Time,Cap,Act,Rem,WL Cap,WL Act,WL Rem,XL Cap,XL Act,XL Rem,Instructor,Date (MM/DD),Location
+NR,21623,ECS,017,A01,M,4.000,Data, Logic, & Computing,TR,01:40 pm-03:00 pm,60,0,60,999,0,999,0,0,0,Patrice A. Koehl (P),01/08-03/15,TBA
+ , , , , , , , ,T,12:10 pm-01:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21624,ECS,017,A02,M,4.000,Data, Logic, & Computing,TR,01:40 pm-03:00 pm,60,0,60,999,0,999,0,0,0,Patrice A. Koehl (P),01/08-03/15,TBA
+ , , , , , , , ,R,12:10 pm-01:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21626,ECS,020,A01,M,4.000,Discrete Math for CS,M,08:00 am-08:50 am,63,0,63,999,0,999,0,0,0,TBA,01/08-03/15,TBA
+ , , , , , , , ,TR,03:10 pm-04:30 pm, , , , , , , , , ,Vidhyacharan Bhaskar (P),01/08-03/15,TBA
+NR,21627,ECS,020,A02,M,4.000,Discrete Math for CS,TR,03:10 pm-04:30 pm,62,0,62,999,0,999,0,0,0,Vidhyacharan Bhaskar (P),01/08-03/15,TBA
+ , , , , , , , ,T,09:00 am-09:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21628,ECS,020,A03,M,4.000,Discrete Math for CS,TR,03:10 pm-04:30 pm,62,0,62,999,0,999,0,0,0,Vidhyacharan Bhaskar (P),01/08-03/15,TBA
+ , , , , , , , ,W,12:10 pm-01:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21629,ECS,020,A04,M,4.000,Discrete Math for CS,TR,03:10 pm-04:30 pm,63,0,63,999,0,999,0,0,0,Vidhyacharan Bhaskar (P),01/08-03/15,TBA
+ , , , , , , , ,F,03:10 pm-04:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21630,ECS,032A,A01,M,4.000,Intro to Programming,MWF,08:00 am-08:50 am,58,0,58,999,0,999,0,0,0,Daryl P. Posnett (P),01/08-03/15,TBA
+ , , , , , , , ,R,05:10 pm-06:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21631,ECS,032A,A02,M,4.000,Intro to Programming,MWF,08:00 am-08:50 am,58,0,58,999,0,999,0,0,0,Daryl P. Posnett (P),01/08-03/15,TBA
+ , , , , , , , ,M,11:00 am-11:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21632,ECS,032A,A03,M,4.000,Intro to Programming,MWF,08:00 am-08:50 am,58,0,58,999,0,999,0,0,0,Daryl P. Posnett (P),01/08-03/15,TBA
+ , , , , , , , ,T,03:10 pm-04:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21633,ECS,032A,A04,M,4.000,Intro to Programming,MWF,08:00 am-08:50 am,58,0,58,999,0,999,0,0,0,Daryl P. Posnett (P),01/08-03/15,TBA
+ , , , , , , , ,R,03:10 pm-04:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21634,ECS,032A,A05,M,4.000,Intro to Programming,MWF,08:00 am-08:50 am,58,0,58,999,0,999,0,0,0,Daryl P. Posnett (P),01/08-03/15,TBA
+ , , , , , , , ,F,12:10 pm-01:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21636,ECS,032A,B01,M,4.000,Intro to Programming,M,08:00 am-08:50 am,49,0,49,999,0,999,0,0,0,TBA,01/08-03/15,TBA
+ , , , , , , , ,TR,03:10 pm-04:30 pm, , , , , , , , , ,Kristian A. Stevens (P),01/08-03/15,TBA
+NR,21637,ECS,032A,B02,M,4.000,Intro to Programming,M,09:00 am-09:50 am,49,0,49,999,0,999,0,0,0,TBA,01/08-03/15,TBA
+ , , , , , , , ,TR,03:10 pm-04:30 pm, , , , , , , , , ,Kristian A. Stevens (P),01/08-03/15,TBA
+NR,21638,ECS,032A,B03,M,4.000,Intro to Programming,M,10:00 am-10:50 am,48,0,48,999,0,999,0,0,0,TBA,01/08-03/15,TBA
+ , , , , , , , ,TR,03:10 pm-04:30 pm, , , , , , , , , ,Kristian A. Stevens (P),01/08-03/15,TBA
+NR,44587,ECS,032A,B04,M,4.000,Intro to Programming,M,11:00 am-11:50 am,48,0,48,999,0,999,0,0,0,TBA,01/08-03/15,TBA
+ , , , , , , , ,TR,03:10 pm-04:30 pm, , , , , , , , , ,Kristian A. Stevens (P),01/08-03/15,TBA
+NR,44588,ECS,032A,B05,M,4.000,Intro to Programming,M,12:10 pm-01:00 pm,48,0,48,999,0,999,0,0,0,TBA,01/08-03/15,TBA
+ , , , , , , , ,TR,03:10 pm-04:30 pm, , , , , , , , , ,Kristian A. Stevens (P),01/08-03/15,TBA
+NR,44589,ECS,032A,B06,M,4.000,Intro to Programming,M,01:10 pm-02:00 pm,48,0,48,999,0,999,0,0,0,TBA,01/08-03/15,TBA
+ , , , , , , , ,TR,03:10 pm-04:30 pm, , , , , , , , , ,Kristian A. Stevens (P),01/08-03/15,TBA
+NR,21639,ECS,032B,A01,M,4.000,Intro to Data Structures,MWF,10:00 am-10:50 am,50,0,50,999,0,999,0,0,0,Edwin A. Solares (P),01/08-03/15,TBA
+ , , , , , , , ,M,09:00 am-09:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21640,ECS,032B,A02,M,4.000,Intro to Data Structures,MWF,10:00 am-10:50 am,50,0,50,999,0,999,0,0,0,Edwin A. Solares (P),01/08-03/15,TBA
+ , , , , , , , ,T,10:00 am-10:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21641,ECS,032B,A03,M,4.000,Intro to Data Structures,MWF,10:00 am-10:50 am,50,0,50,999,0,999,0,0,0,Edwin A. Solares (P),01/08-03/15,TBA
+ , , , , , , , ,W,04:10 pm-05:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21642,ECS,032B,A04,M,4.000,Intro to Data Structures,MWF,10:00 am-10:50 am,50,0,50,999,0,999,0,0,0,Edwin A. Solares (P),01/08-03/15,TBA
+ , , , , , , , ,R,04:10 pm-05:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21643,ECS,032B,A05,M,4.000,Intro to Data Structures,MWF,10:00 am-10:50 am,50,0,50,999,0,999,0,0,0,Edwin A. Solares (P),01/08-03/15,TBA
+ , , , , , , , ,F,02:10 pm-03:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,44676,ECS,034,001,M,4.000,Dev in UNIX & C++,TR,12:10 pm-01:30 pm,60,0,60,999,0,999,0,0,0,Christopher J. Nitta (P),01/08-03/15,TBA
+ , , , , , , , ,T,11:00 am-11:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21644,ECS,036A,001,M,4.000,Programming & Prob Solve,MWF,11:00 am-11:50 am,220,0,220,999,0,999,0,0,0,Matthew F. Butner (P),01/08-03/15,TBA
+ , , , , , , , ,M,03:10 pm-04:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21645,ECS,036B,A01,M,4.000,Object-Oriented Program,M,04:10 pm-05:00 pm,55,0,55,999,0,999,0,0,0,TBA,01/08-03/15,TBA
+ , , , , , , , ,TR,10:30 am-11:50 am, , , , , , , , , ,Francois Gygi (P),01/08-03/15,TBA
+NR,21646,ECS,036B,A02,M,4.000,Object-Oriented Program,TR,10:30 am-11:50 am,55,0,55,999,0,999,0,0,0,Francois Gygi (P),01/08-03/15,TBA
+ , , , , , , , ,T,04:10 pm-05:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21647,ECS,036B,A03,M,4.000,Object-Oriented Program,TR,10:30 am-11:50 am,55,0,55,999,0,999,0,0,0,Francois Gygi (P),01/08-03/15,TBA
+ , , , , , , , ,W,09:00 am-09:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21648,ECS,036B,A04,M,4.000,Object-Oriented Program,TR,10:30 am-11:50 am,55,0,55,999,0,999,0,0,0,Francois Gygi (P),01/08-03/15,TBA
+ , , , , , , , ,R,08:00 am-08:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21649,ECS,036C,A01,M,4.000,Data Structures,MWF,02:10 pm-03:00 pm,64,0,64,999,0,999,0,0,0,Edwin A. Solares (P),01/08-03/15,TBA
+ , , , , , , , ,W,03:10 pm-04:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21650,ECS,036C,A02,M,4.000,Data Structures,MWF,02:10 pm-03:00 pm,63,0,63,999,0,999,0,0,0,Edwin A. Solares (P),01/08-03/15,TBA
+ , , , , , , , ,W,05:10 pm-06:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21651,ECS,036C,A03,M,4.000,Data Structures,MWF,02:10 pm-03:00 pm,63,0,63,999,0,999,0,0,0,Edwin A. Solares (P),01/08-03/15,TBA
+ , , , , , , , ,F,09:00 am-09:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21652,ECS,050,001,M,4.000,Machine Dependent Prog,MWF,01:10 pm-02:00 pm,125,0,125,999,0,999,0,0,0,Matthew F. Butner (P),01/08-03/15,TBA
+ , , , , , , , ,W,10:00 am-10:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21691,ECS,098,033,M,1.000-5.000,Directed Gp Study,W,07:10 pm-08:00 pm,20,0,20,999,0,999,0,0,0,Mohammad Sadoghi Hamedani (P),01/08-03/15,KEMPER 01065
+NR,21711,ECS,098,053,M,1.000-5.000,Directed Gp Study, ,TBA,99,0,99,999,0,999,0,0,0,Mohammad Sadoghi Hamedani (P),01/08-03/15,TBA
+NR,44607,ECS,116,001,M,4.000,Databases for Non-Majors,TR,09:00 am-10:20 am,120,0,120,999,0,999,0,0,0,. The Staff (P),01/08-03/15,TBA
+ , , , , , , , ,W,01:10 pm-02:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21771,ECS,120,A01,M,4.000,Theory Computation,TR,12:10 pm-01:30 pm,58,0,58,999,0,999,0,0,0,David S. Doty (P),01/08-03/15,TBA
+ , , , , , , , ,T,04:10 pm-05:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21772,ECS,120,A02,M,4.000,Theory Computation,TR,12:10 pm-01:30 pm,58,0,58,999,0,999,0,0,0,David S. Doty (P),01/08-03/15,TBA
+ , , , , , , , ,F,04:10 pm-05:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21773,ECS,120,A03,M,4.000,Theory Computation,TR,12:10 pm-01:30 pm,59,0,59,999,0,999,0,0,0,David S. Doty (P),01/08-03/15,TBA
+ , , , , , , , ,R,02:10 pm-03:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21774,ECS,122A,A01,M,4.000,Algorithm Design & Anyls,TR,04:40 pm-06:00 pm,50,0,50,999,0,999,0,0,0,Yelena A. Frid (P),01/08-03/15,TBA
+ , , , , , , , ,T,08:00 am-08:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21775,ECS,122A,A02,M,4.000,Algorithm Design & Anyls,M,05:10 pm-06:00 pm,50,0,50,999,0,999,0,0,0,TBA,01/08-03/15,TBA
+ , , , , , , , ,TR,04:40 pm-06:00 pm, , , , , , , , , ,Yelena A. Frid (P),01/08-03/15,TBA
+NR,21776,ECS,122A,A03,M,4.000,Algorithm Design & Anyls,M,11:00 am-11:50 am,50,0,50,999,0,999,0,0,0,TBA,01/08-03/15,TBA
+ , , , , , , , ,TR,04:40 pm-06:00 pm, , , , , , , , , ,Yelena A. Frid (P),01/08-03/15,TBA
+NR,21777,ECS,122A,A04,M,4.000,Algorithm Design & Anyls,TR,04:40 pm-06:00 pm,50,0,50,999,0,999,0,0,0,Yelena A. Frid (P),01/08-03/15,TBA
+ , , , , , , , ,F,08:00 am-08:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21778,ECS,122A,A05,M,4.000,Algorithm Design & Anyls,TR,04:40 pm-06:00 pm,50,0,50,999,0,999,0,0,0,Yelena A. Frid (P),01/08-03/15,TBA
+ , , , , , , , ,F,05:10 pm-06:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21779,ECS,122B,A01,M,4.000,Algorithm Design & Anlys,MWF,11:00 am-11:50 am,50,0,50,999,0,999,0,0,0,Setareh Rafatirad (P),01/08-03/15,TBA
+ , , , , , , , ,W,09:00 am-09:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21780,ECS,122B,A02,M,4.000,Algorithm Design & Anlys,MWF,11:00 am-11:50 am,50,0,50,999,0,999,0,0,0,Setareh Rafatirad (P),01/08-03/15,TBA
+ , , , , , , , ,T,05:10 pm-06:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21781,ECS,122B,A03,M,4.000,Algorithm Design & Anlys,MWF,11:00 am-11:50 am,50,0,50,999,0,999,0,0,0,Setareh Rafatirad (P),01/08-03/15,TBA
+ , , , , , , , ,F,08:00 am-08:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,44613,ECS,129,001,M,4.000,Comp Structural Bioinfo,TR,09:00 am-10:20 am,85,0,85,999,0,999,0,0,0,Patrice A. Koehl (P),01/08-03/15,TBA
+ , , , , , , , ,T,08:00 am-08:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21783,ECS,132,A01,M,4.000,Prob & Sta Model for CS,M,10:00 am-10:50 am,62,0,62,999,0,999,0,0,0,TBA,01/08-03/15,TBA
+ , , , , , , , ,TR,06:10 pm-07:30 pm, , , , , , , , , ,Yelena A. Frid (P),01/08-03/15,TBA
+NR,21784,ECS,132,A02,M,4.000,Prob & Sta Model for CS,TR,06:10 pm-07:30 pm,63,0,63,999,0,999,0,0,0,Yelena A. Frid (P),01/08-03/15,TBA
+ , , , , , , , ,F,09:00 am-09:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21785,ECS,140A,001,M,4.000,Programming Languages,TR,10:30 am-11:50 am,195,0,195,999,0,999,0,0,0,Aditya V. Thakur (P),01/08-03/15,TBA
+ , , , , , , , ,T,12:10 pm-01:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21786,ECS,150,001,M,4.000,Operating Systems,MWF,12:10 pm-01:00 pm,198,0,198,999,0,999,0,0,0,Joel Porquet (P),01/08-03/15,TBA
+ , , , , , , , ,F,11:00 am-11:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,44817,ECS,152A,A01,M,4.000,Computer Networks,TR,01:30 pm-02:50 pm,56,0,56,999,0,999,0,0,0,Chen-Nee Chuah (P),01/08-03/15,TBA
+ , , , , , , , ,W,08:00 am-08:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,44818,ECS,152A,A02,M,4.000,Computer Networks,TR,01:30 pm-02:50 pm,56,0,56,999,0,999,0,0,0,Chen-Nee Chuah (P),01/08-03/15,TBA
+ , , , , , , , ,F,03:10 pm-04:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,44819,ECS,152A,A03,M,4.000,Computer Networks,TR,01:30 pm-02:50 pm,56,0,56,999,0,999,0,0,0,Chen-Nee Chuah (P),01/08-03/15,TBA
+ , , , , , , , ,F,12:10 pm-01:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21790,ECS,154A,001,M,4.000,Computer Architecture,TR,01:40 pm-03:00 pm,190,0,190,999,0,999,0,0,0,Matthew K. Farrens (P),01/08-03/15,TBA
+ , , , , , , , ,W,04:10 pm-05:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21791,ECS,154B,001,M,4.000,Computer Architecture,MWF,03:10 pm-04:00 pm,75,0,75,999,0,999,0,0,0,Jason G. Lowe-Power (P),01/08-03/15,TBA
+ , , , , , , , ,T,03:10 pm-04:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21792,ECS,160,001,M,4.000,Software Engineering,MWF,09:00 am-09:50 am,95,0,95,999,0,999,0,0,0,Daryl P. Posnett (P),01/08-03/15,TBA
+ , , , , , , , ,F,10:00 am-10:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,44620,ECS,163,001,M,4.000,Information Interfaces,MWF,03:10 pm-04:00 pm,75,0,75,999,0,999,0,0,0,TBA,01/08-03/15,TBA
+ , , , , , , , ,T,06:10 pm-07:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21793,ECS,164,001,M,4.000,Human-Computer Inter,TR,12:10 pm-01:30 pm,150,0,150,999,0,999,0,0,0,Hao-Chuan Wang (P),01/08-03/15,TBA
+ , , , , , , , ,R,06:10 pm-07:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21794,ECS,165A,A01,M,4.000,Database Systems,M,01:10 pm-02:00 pm,50,0,50,999,0,999,0,0,0,TBA,01/08-03/15,TBA
+ , , , , , , , ,TR,10:30 am-11:50 am, , , , , , , , , ,Mohammad Sadoghi Hamedani (P),01/08-03/15,TBA
+NR,21795,ECS,165A,A02,M,4.000,Database Systems,TR,10:30 am-11:50 am,50,0,50,999,0,999,0,0,0,Mohammad Sadoghi Hamedani (P),01/08-03/15,TBA
+ , , , , , , , ,W,04:10 pm-05:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21796,ECS,165A,A03,M,4.000,Database Systems,TR,10:30 am-11:50 am,50,0,50,999,0,999,0,0,0,Mohammad Sadoghi Hamedani (P),01/08-03/15,TBA
+ , , , , , , , ,R,08:00 am-08:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21797,ECS,170,001,M,4.000,Artificial Intelligence,MWF,02:10 pm-03:00 pm,150,0,150,999,0,999,0,0,0,Ian N. Davidson (P),01/08-03/15,TBA
+ , , , , , , , ,F,04:10 pm-05:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21798,ECS,188,001,M,4.000,Ethics in an Age of Tech,MWF,01:10 pm-02:00 pm,30,0,30,0,0,0,0,0,0,Kurt P. Eiselt (P),01/08-03/15,TBA
+ , , , , , , , ,M,02:10 pm-03:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21799,ECS,188,002,M,4.000,Ethics in an Age of Tech,MWF,04:10 pm-05:00 pm,30,0,30,999,0,999,0,0,0,Muhammad Zubair Shafiq (P),01/08-03/15,TBA
+ , , , , , , , ,W,05:10 pm-06:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21800,ECS,189A,001,M,1.000-5.000,Computer Science Theory,MWF,10:00 am-10:50 am,75,0,75,999,0,999,0,0,0,Isaac H. Kim (P),01/08-03/15,TBA
+ , , , , , , , ,M,06:10 pm-07:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,44621,ECS,189A,002,M,1.000-5.000,Computer Science Theory,MWF,12:10 pm-01:00 pm,75,0,75,999,0,999,0,0,0,Slobodan Mitrovic (P),01/08-03/15,TBA
+ , , , , , , , ,W,06:10 pm-07:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,44622,ECS,189E,001,M,1.000-5.000,Software Engineering,MWF,08:00 am-08:50 am,75,0,75,999,0,999,0,0,0,Samuel T. King (P),01/08-03/15,TBA
+ , , , , , , , ,F,01:10 pm-02:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21801,ECS,189G,001,M,1.000-5.000,Artificial Intelligence,MWF,05:10 pm-06:00 pm,65,0,65,999,0,999,0,0,0,Jiawei Zhang (P),01/08-03/15,TBA
+ , , , , , , , ,F,06:10 pm-07:00 pm, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,44624,ECS,189L,001,M,1.000-5.000,Computer Science,TR,01:40 pm-03:00 pm,75,0,75,999,0,999,0,0,0,Joshua A. Mccoy (P),01/08-03/15,TBA
+ , , , , , , , ,T,08:00 am-08:50 am, , , , , , , , , ,TBA,01/08-03/15,TBA
+NR,21806,ECS,193A,001,M,3.000,Capstone Project,TR,01:40 pm-03:00 pm,99,0,99,999,0,999,0,0,0,Christopher J. Nitta (P),01/08-03/15,TBA
+NR,21925,ECS,199FA,002,M,1.000-4.000,Student-Taught Course De, ,TBA,99,0,99,999,0,999,0,0,0,Muhammad Zubair Shafiq (P),01/08-03/15,TBA
