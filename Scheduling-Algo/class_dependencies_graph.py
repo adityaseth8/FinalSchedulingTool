@@ -17,7 +17,7 @@ class AcyclicTopologicalGraph:
 
     def insert(self, node, department, course_number, class_size, professor, *dependencies, location):
         if node in self.graph:
-            print(f"Node '{node}' already exists in the graph.")
+            # print(f"Node '{node}' already exists in the graph.")
             return
 
         if self.first_node is None:
@@ -115,6 +115,27 @@ class AcyclicTopologicalGraph:
         print(f"Node '{max_class_size_node}' with the maximum class size {max_class_size_data['class_size']} removed from the graph.")
     
         return sorted_nodes[0]
+
+    # Returns a list containing a node with no outgoing edges and four other nodes that are contained through dependencies
+    def search_node_with_dependencies(self):
+        node_with_dependencies = []
+
+        for _ in range(len(self.graph)):
+            nodes_without_edges = [node for node, data in self.graph.items() if not data['dependencies']]
+
+            if not nodes_without_edges:
+                break
+
+            selected_node = nodes_without_edges[0]
+            node_with_dependencies.append(selected_node)
+
+            dependencies = self.graph[selected_node]['dependencies']
+            node_with_dependencies.extend(dependencies[:4])  # Assuming at most 4 dependencies
+
+            del self.graph[selected_node]
+
+        return node_with_dependencies
+
     
         
 # def remove_node_with_max_class_size(graph):
