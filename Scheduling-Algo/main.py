@@ -1,16 +1,15 @@
 from class_dependencies_graph import AcyclicTopologicalGraph
 import pandas as pd 
 
-
 finals = []
 num_days = 4
 num_blocks_per_day = 5
-counter = 0
 
-# graph = AcyclicTopologicalGraph()
 room_df = pd.read_csv('data.csv')
 
-# Assign ids to all graphs in each block per day 
+# Assign ids to all graphs in each block per day (1a - 5e)
+# Numbers (1 - 5) reprsent Monday to Friday
+# Letters (a - e) represent the 5 time blocks per day
 for i in range(num_days):
   for j in range(num_blocks_per_day):
     # Create object instance
@@ -33,27 +32,26 @@ finals[1].insert(1, "A", "Math", "101", 300, "Dr. Smith", None, location="")
 finals[1].insert(2, "B", "Physics", "201", 50, "Dr. Johnson", "A", location="")
 finals[1].insert(3, "C", "Math", "201", 50, "Dr. Smith", "B", location="")
 
-# # Scoped down code to fit classes to rooms 
-# num_classes_to_schedule = 1 # len(finals[0].graph)
 
+# Iterate through the whole finals list (1a - 5e) with each containing an object
 for i in range(num_days * num_blocks_per_day):
+  # Get the number of classes to schedule 
   num_classes_to_schedule = len(finals[i].graph)
-  print(num_classes_to_schedule)
+
+  # If there are no classes to schedule, break
   if (num_classes_to_schedule == 0): break
 
   for j in range(num_classes_to_schedule):
     # Get max class size 
     max_course_size = finals[i].get_max_course_size()
-    # print(max_course_size)
 
     # Get max room size
     max_room_size = room_df["Capacity"].max()
-    # print(int(max_room_size))
 
     # Assign the room with the higheset class size
     max_room_size_name = room_df.loc[room_df['Capacity'].idxmax(), 'Classroom List']
 
-    # If first column with max capacity can fit class size, can fit class
+    # If first column with max capacity can fit class size, the max size class can fit into the max size room
     if (int(max_room_size) > int(max_course_size)):
       # Assign the room with the higheset class size
       location = room_df.loc[room_df['Capacity'].idxmax(), 'Classroom List']
@@ -69,6 +67,8 @@ for i in range(num_days * num_blocks_per_day):
       room_df = room_df.iloc[1:]
   
   finals[i].print_nodes_loc()
+
+
 
 # finals[0].print_nodes()
 
